@@ -23,7 +23,25 @@ Here are the files for the data cleaning process of Project 3 of the Data Scienc
   * table products
   
 ### 3.2. Data Cleaning
+learning how to clean a raw data set 
 
 ### 3.3. Datetime Challenges
+learning how to work with datetime format
 
 ### 3.4. Groupby Challenges
+learning how to use groubby to categorize data and make understanding easier
+
+### 3.5. Quality Assessment Challenges
+learning how to do quality checks and what data to include or discard from the analysis
+
+### 3.6. Searborn Challenges
+learning how to create good looking graphs using Titanic data set and the previously named tables
+
+### 3.7. Creating Categories Challenge
+learning how to categorize our data to help analyze it in more detail
+
+### Analyze Discounts
+final analysis of the question "Do discounts increase Eniacs profit?"
+
+### Final Presentation
+held on 21.02.2023
